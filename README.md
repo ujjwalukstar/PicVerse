@@ -1,12 +1,21 @@
-# React + Vite
+# 📸 PicVerse - Pixabay Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PixelVault is a Pixabay-inspired platform for browsing and downloading high-quality, royalty-free images. 
 
-Currently, two official plugins are available:
+## 🚀 Installation & Setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/ujjwalukstar/PicVerse.git
+cd PicVerse
+npm install
+npm run dev
 
-## Expanding the ESLint configuration
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📚 Resources
+
+- [Pixabay API Docs](https://pixabay.com/api/docs) - Learn how to fetch images.  {Do Login and Get Your API Key}
+- [React Documentation](https://react.dev) - Official React guide.
+- [MDN Web Docs](https://developer.mozilla.org/) - HTML, CSS, and JavaScript resources.
+- [Netlify](https://www.netlify.com/) - Deploy static React sites easily.
