@@ -15,7 +15,7 @@ npm run dev
 
 ## 📚 Resources
 
-- [Pixabay API Docs](https://pixabay.com/api/docs) - Learn how to fetch images.
+- [Pixabay API Docs](https://pixabay.com/api/docs) - Learn how to fetch images.  {Do Login and Get Your API Key}
 - [React Documentation](https://react.dev) - Official React guide.
 - [MDN Web Docs](https://developer.mozilla.org/) - HTML, CSS, and JavaScript resources.
 - [Netlify](https://www.netlify.com/) - Deploy static React sites easily.
